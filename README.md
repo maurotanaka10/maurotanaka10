@@ -23,6 +23,9 @@
   <img align="center" alt="Mauro-Html" height="60" width="60" src="https://github.com/maurotanaka10/maurotanaka10/assets/114377365/6638c3d9-e89b-4509-a16f-e127e55e279b">
 </div>
 <br>
+- 🖥️ Especializando em C# na Unity, e aprendendo Blueprint e Swift
+<br>
+<br>
 
 ## 📱Redes Sociais
 <div>
