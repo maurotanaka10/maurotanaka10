@@ -6,7 +6,7 @@
 
 <br>
 <div>
-<img height="180cm" alt="MauroTanaka Github stats" src="https://github-readme-stats.vercel.app/api?username=maurotanaka10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180cm" alt="MauroTanaka Github stats" src="https://github-readme-stats.vercel.app/api?username=maurotanaka10&show_icons=true&theme=tokyonight&count_private=true"/>
 <img height="180cm" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maurotanaka10&layout=compact&theme=tokyonight"/>
 </div>  
 <br>
